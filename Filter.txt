@@ -1,1 +1,2 @@
 ||ota.googlezip.net^
+||googlezip.net^
